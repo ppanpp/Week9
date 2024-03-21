@@ -1,0 +1,40 @@
+p
+{
+    color:darkolivegreen;
+    font-size: 20px;
+}
+
+p:hover 
+{
+    background: green;
+}
+
+li
+{color: darkgreen;
+font-size: 15px;}
+
+.standout
+{
+    color: greenyellow;
+    font-size: 30px;
+}
+.image1:hover
+{
+    border-radius: 50%;
+}
+.image2:hover
+{
+    border-radius: 30px;
+}
+.image3:hover
+{
+    opacity: 0.8;
+}
+.image4:hover
+{
+    filter: brightness(30%);
+}
+.image5:hover
+{
+    filter: drop-shadow(20%);
+}
